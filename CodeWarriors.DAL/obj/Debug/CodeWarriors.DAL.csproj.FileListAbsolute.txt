@@ -1,0 +1,13 @@
+E:\WORKSPACE\ENTITAS\PROJECTS\CodeWarriors\CodeWarriors\CodeWarriors.DAL\bin\Debug\CodeWarriors.DAL.dll.config
+E:\WORKSPACE\ENTITAS\PROJECTS\CodeWarriors\CodeWarriors\CodeWarriors.DAL\bin\Debug\CodeWarriors.DAL.dll
+E:\WORKSPACE\ENTITAS\PROJECTS\CodeWarriors\CodeWarriors\CodeWarriors.DAL\bin\Debug\CodeWarriors.DAL.pdb
+E:\WORKSPACE\ENTITAS\PROJECTS\CodeWarriors\CodeWarriors\CodeWarriors.DAL\bin\Debug\MongoDB.Bson.dll
+E:\WORKSPACE\ENTITAS\PROJECTS\CodeWarriors\CodeWarriors\CodeWarriors.DAL\bin\Debug\MongoDB.Driver.dll
+E:\WORKSPACE\ENTITAS\PROJECTS\CodeWarriors\CodeWarriors\CodeWarriors.DAL\bin\Debug\MongoDB.Bson.xml
+E:\WORKSPACE\ENTITAS\PROJECTS\CodeWarriors\CodeWarriors\CodeWarriors.DAL\bin\Debug\MongoDB.Driver.xml
+E:\WORKSPACE\ENTITAS\PROJECTS\CodeWarriors\CodeWarriors\CodeWarriors.DAL\obj\Debug\CodeWarriors.DAL.dll
+E:\WORKSPACE\ENTITAS\PROJECTS\CodeWarriors\CodeWarriors\CodeWarriors.DAL\obj\Debug\CodeWarriors.DAL.pdb
+E:\WORKSPACE\ENTITAS\PROJECTS\CodeWarriors\CodeWarriors\CodeWarriors.DAL\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+E:\WORKSPACE\ENTITAS\PROJECTS\CodeWarriors\CodeWarriors\CodeWarriors.DAL\bin\Debug\MongoDB.AspNet.Identity.dll
+E:\WORKSPACE\ENTITAS\PROJECTS\CodeWarriors\CodeWarriors\CodeWarriors.DAL\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+E:\WORKSPACE\ENTITAS\PROJECTS\CodeWarriors\CodeWarriors\CodeWarriors.DAL\obj\Debug\CodeWarriors.DAL.csprojResolveAssemblyReference.cache
